@@ -1,0 +1,72 @@
+body{font-family: 'Supermercado One', cursive;
+			background-color: #C5DBDD;}
+		form ,#k{
+			width:55vw;
+			margin: auto;
+			margin-top:11vh;
+			background-color: #9A8AC3;
+			padding:10vh;
+			box-sizing:border-box;
+			border-radius:10px;
+			box-shadow:4px 4px 5px #2E293A;
+			
+			color: #1d3441;
+			letter-spacing: .4vw;
+		}
+		pre{
+			margin:0;
+			padding:0;
+			font:italic bold 2vw 'Cabin', sans-serif;;
+		}
+		pre>input{
+			margin:1vh;
+			width:15vw;
+			height:4vh;
+			border-radius:8px ;
+			border:2px ;
+			padding:7px;
+			box-sizing: border-box;
+
+		}
+		.ch{
+			background-color: #e3fdfa;
+		}
+			#sub1 ,button{
+				margin:auto;
+				margin-top:0;
+				display:block;
+				width:8vw;
+				height:7vh;
+				border:2px solid #626669 ;
+				border-radius: 10px;
+				background-color:#161816; 
+				color:#e3fdfa;
+			}
+			input[name=link]{
+				width:77%;
+			}
+			#s{
+								margin:auto;
+
+				padding:2vh;
+			width:55vw;
+			margin-top:4vh;
+			background-color: #9A8AC3;
+			box-sizing:border-box;
+			border-radius:10px;
+			box-shadow:4px 4px 5px #2E293A;
+			word-wrap: break-word;
+			}
+			#see{
+				margin:auto;
+				margin-top:5vh;
+				padding:1px;
+				box-sizing:border-box;
+				width:60vw;
+				background-color:#95bdc1;
+				border-radius:20px;}
+
+				
+
+
+			

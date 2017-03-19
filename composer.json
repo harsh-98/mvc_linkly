@@ -1,0 +1,20 @@
+{
+	"name":"harsh/mvc",
+	"description":"Sample app for MVC Lecture",
+	"require":{
+		"torophp/torophp":"dev-master",
+		"twig/twig":"2.0"
+	},
+	"authors":[
+		{
+			"name":"harsh"
+			,"email":"harshjniitr@gmail.com"
+		}],
+	"autoload":{
+		"psr-4":{
+			"Link\\Controllers\\":"controller",
+			"Link\\Models\\":"models"
+		}
+	}
+
+}
