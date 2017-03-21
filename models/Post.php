@@ -5,7 +5,7 @@ namespace Link\Models;
 class Post{
 
 	public static  function DB(){
-		return new \PDO("mysql:dbname=myDB;host=localhost","harsh","12345678");
+		return new \PDO("mysql:dbname=myDB;host=localhost","harsh","password");
 
 	}
 
